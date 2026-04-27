@@ -145,5 +145,4 @@ python generate_plots.py
 
 **Suhani Terway** (202300655)
 Department of AI&DS,
-
 Sikkim Manipal Institute of Technology
