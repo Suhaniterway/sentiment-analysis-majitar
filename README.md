@@ -144,5 +144,6 @@ python generate_plots.py
 ## 👩‍💻 Author
 
 **Suhani Terway** (202300655)
-Department of AI&DS
+Department of AI&DS,
+
 Sikkim Manipal Institute of Technology
